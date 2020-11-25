@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Divyansh Kumar Singh AKA Dev Singh
   
  - 🤔 I’m looking for help with andriod devlopment
  - 📫 How to reach me https://www.linkedin.com/in/divyansh-singh-97aa461ba/
