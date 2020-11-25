@@ -3,7 +3,7 @@
  - 🤔 I’m looking for help with andriod devlopment
  - 📫 How to reach me https://www.linkedin.com/in/divyansh-singh-97aa461ba/
  - 🌱 I’m currently learning Manythings
- - Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+ 
 
 
 <!--
