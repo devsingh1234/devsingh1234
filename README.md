@@ -6,7 +6,7 @@
 <br />
 <br />
 <br /> 
-![Alt Text](![Alt Text](https://media.giphy.com/media/z8XtwKGIRQSBCmU4sW/giphy.gif)
+![Alt Text](https://media.giphy.com/media/z8XtwKGIRQSBCmU4sW/giphy.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsingh1234&label=Profile%20views&color=0e75b6&style=flat" alt="devsingh1234" /> </p>
 
