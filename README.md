@@ -9,6 +9,9 @@
 
 ![Alt Text](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsingh1234&label=Profile%20views&color=0e75b6&style=flat" alt="devsingh1234" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsingh1234" alt="devsingh1234" /></a> </p>
